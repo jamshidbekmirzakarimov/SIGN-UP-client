@@ -115,6 +115,7 @@ body {
 
 .hero-section-local-host-item:hover{
   box-shadow: 0px 10px 15px rgb(224, 224, 224);
+  border: 1px solid transparent;
 }
 
 .hero-section-local-host-title{
